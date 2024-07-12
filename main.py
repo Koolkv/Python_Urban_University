@@ -12,4 +12,6 @@ print(1234 % 1000 // 10 + 5678 % 5000 // 10)
 
 # task_4 'Vse, vezde i srazy'
 # 4th program
-print(int(13.42 * 100) % 100 == int(42.13))
+# print(int(13.42 * 100) % 100 == int(42.13))
+# dorabotka DZ
+((13,42 * 100) % 100 == int (42,13)) or ((42,13 * 100) % 100 == int(13,42))
