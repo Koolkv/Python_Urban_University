@@ -1,3 +1,3 @@
-Hi! \n
-I am an Urban-university student. \n
+Hi!  
+I am an Urban-university student.  
 Here I practice my programming skills in Python.
