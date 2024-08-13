@@ -1,3 +1,3 @@
-Hello!
-I'm a student Urban-university
-At this page I practice my skill on Python
+Hi! /n
+I am an Urban-university student. /n
+Here I practice my programming skills in Python.
