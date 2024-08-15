@@ -18,7 +18,6 @@ def unpacks(data):
                 yield sub_item
         elif isinstance(item, str):
             yield len(item)
-
         else:
             yield item
 
